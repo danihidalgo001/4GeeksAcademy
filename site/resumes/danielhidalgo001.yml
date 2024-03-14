@@ -104,8 +104,17 @@ skills:
     - name: NodeJs, Javascript & TypeScript
       level: 99%
 
+    - name: Next JS
+      level: 99%
+
     - name: Vue3
       level: 99%
+    
+    - name: Electron
+      level: 90%
+    
+    - name: Ionic
+      level: 90%
 
     - name: HTML5 & CSS
       level: 99%
