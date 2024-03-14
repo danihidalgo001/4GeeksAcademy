@@ -39,11 +39,11 @@ education:
     time: 2021 - 2023
 
   - degree: Pre-University Graduate (Grade 12 Degree).
-    school: Rafael Guerras Vives Pre-University School.
+    university: Rafael Guerras Vives Pre-University School.
     time: 2017 - 2020
   
-  - certificate: Junior High School Diploma (9th Grade Certificate).
-    school: ESBU Ana Betancourt de Mora.
+  - degree: Junior High School Diploma (9th Grade Certificate).
+    university: ESBU Ana Betancourt de Mora.
     time: 2014 - 2017
 
 experiences:
@@ -54,6 +54,7 @@ experiences:
 
   - role: Freelance Frontend Developer | Self-employed.
     time: 2019 - 2023
+    company: Some Companies
     details: As a self-employed UI developer, I created comprehensive and user-friendly web applications using Vue.js 3 for a variety of clients. I oversaw all project phases, from design to implementation, while maintaining strict timelines and budgets. My skills include interface design, Vue Router/Vuex management, RESTful API integration, and troubleshooting. I continuously improve my tech skills and ensure top-quality, efficient outcomes, enhancing client satisfaction.
 
   - role: Full Stack Develop.
@@ -80,13 +81,12 @@ projects:
   
   - title: AI-svg
     tagline: calendar for the whole family."
-    
-  assignments:
-    - title: Postcard
+  
+  - title: Postcard
 
-    - title: Instagram-Layout
+  - title: Instagram-Layout
 
-    - title: Excuse-Generator
+  - title: Excuse-Generator
 
 
 skills:
