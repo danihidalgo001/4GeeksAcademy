@@ -1,0 +1,114 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+  name: Daniel Hidalgo
+  tagline: Full Stack Develop
+  avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Favatar&psig=AOvVaw3SAPS0lq9Px9QJbJOFXqng&ust=1710458906200000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjo-4-y8oQDFQAAAAAdAAAAABAE
+  
+  email: daniel2002emb@gmail.com
+  phone: (305)540-1469
+  website: ''
+  linkedin: https://www.linkedin.com/in/daniel-hidalgo-3902012aa/    
+  github: danielhidalgo001
+  twitter: '' 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+  
+  languages:
+    - idiom: English
+      level: Intermediate
+
+    - idiom: Spanish
+      level: Native
+
+  
+  interests:
+    - item: Riding bmx
+
+    - item: Health & wellness
+
+    - item: Suring
+
+
+
+education:
+  - degree: Computer Engineering (First and Second Year).
+    university: University of Camagüey Ignacio Agramonte.
+    time: 2021 - 2023
+
+  - degree: Pre-University Graduate (Grade 12 Degree).
+    school: Rafael Guerras Vives Pre-University School.
+    time: 2017 - 2020
+  
+  - certificate: Junior High School Diploma (9th Grade Certificate).
+    school: ESBU Ana Betancourt de Mora.
+    time: 2014 - 2017
+
+experiences:
+
+  - role: Full Stack Develop
+    time: 2024
+    company: Biketag
+
+  - role: Freelance Frontend Developer | Self-employed.
+    time: 2019 - 2023
+    details: As a self-employed UI developer, I created comprehensive and user-friendly web applications using Vue.js 3 for a variety of clients. I oversaw all project phases, from design to implementation, while maintaining strict timelines and budgets. My skills include interface design, Vue Router/Vuex management, RESTful API integration, and troubleshooting. I continuously improve my tech skills and ensure top-quality, efficient outcomes, enhancing client satisfaction.
+
+  - role: Full Stack Develop.
+    time: 2021 - 2022
+    company: University of Camagüey Ignacio Agramonte
+    details: |
+      Hired as a software developer, I led an innovative project focused on artificial intelligence for the University of Camagüey Ignacio Agramonte. My main task was to develop and train an AI model using advanced neural networks. This project focused on simulating and predicting the drinking behavior of cows, a key challenge in the agricultural sector.
+      My responsibilities and accomplishments on this project included:
+      Data Collection and Processing: I implemented effective strategies to collect large sets of animal behavior data from Internet sources. Used advanced data processing and analysis techniques to prepare data for model training. 
+      AI Model Development: Designed and trained neural network models, fine-tuning and optimizing their performance to accurately simulate the drinking behavior of cows. 
+      Accurate and Applicable Results: After several months of work, the developed model began to predict with high precision the amount of water that the cows would consume.
+      This result not only demonstrated the viability of the model but also opened avenues for practical applications in the livestock industry. Implementation of Solutions in Python and JS: I used Python for the backend and data analysis, and JavaScript to develop friendly user interfaces. This combination allowed easy interaction with the model and made it easier for end users to interpret the results.
+
+projects:
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+  - title: FreeMarket
+    tagline: "A website for purchases and sales."
+
+  - title: Family Calendar
+  
+  - title: AI-svg
+    tagline: calendar for the whole family."
+    
+  assignments:
+    - title: Postcard
+
+    - title: Instagram-Layout
+
+    - title: Excuse-Generator
+
+
+skills:
+
+  toolset:
+    - name: Python
+      level: 99%
+    
+    - name: Django
+      level: 90%
+    
+    - name: TensorFlow
+      level: 90%
+
+    - name: NodeJs, Javascript & TypeScript
+      level: 99%
+
+    - name: Vue3
+      level: 99%
+
+    - name: HTML5 & CSS
+      level: 99%
+
+    - nname: MySQL & MongoDB
+      level: 90%
